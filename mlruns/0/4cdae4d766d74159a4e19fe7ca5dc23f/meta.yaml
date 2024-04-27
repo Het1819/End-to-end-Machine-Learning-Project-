@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/AI%20%26%20CC/Project/End-to-end-Machine-Learning-Project-/mlruns/0/4cdae4d766d74159a4e19fe7ca5dc23f/artifacts
+end_time: 1714200905887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cdae4d766d74159a4e19fe7ca5dc23f
+run_name: wistful-cow-356
+run_uuid: 4cdae4d766d74159a4e19fe7ca5dc23f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714200903143
+status: 3
+tags: []
+user_id: patel

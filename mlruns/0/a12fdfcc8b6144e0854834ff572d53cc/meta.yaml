@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/AI%20%26%20CC/Project/End-to-end-Machine-Learning-Project-/mlruns/0/a12fdfcc8b6144e0854834ff572d53cc/artifacts
+end_time: 1714198910938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a12fdfcc8b6144e0854834ff572d53cc
+run_name: languid-fly-611
+run_uuid: a12fdfcc8b6144e0854834ff572d53cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714198908227
+status: 3
+tags: []
+user_id: patel

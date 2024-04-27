@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/AI%20%26%20CC/Project/End-to-end-Machine-Learning-Project-/mlruns/0/3e6e313f87de4c9baeaf161334b5f569/artifacts
+end_time: 1714199174458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e6e313f87de4c9baeaf161334b5f569
+run_name: receptive-stoat-506
+run_uuid: 3e6e313f87de4c9baeaf161334b5f569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714199171420
+status: 3
+tags: []
+user_id: patel
