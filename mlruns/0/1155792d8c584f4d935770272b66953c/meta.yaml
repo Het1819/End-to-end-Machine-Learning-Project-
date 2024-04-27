@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/AI%20%26%20CC/Project/End-to-end-Machine-Learning-Project-/mlruns/0/1155792d8c584f4d935770272b66953c/artifacts
+end_time: 1714234182506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1155792d8c584f4d935770272b66953c
+run_name: dashing-asp-374
+run_uuid: 1155792d8c584f4d935770272b66953c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714234179557
+status: 3
+tags: []
+user_id: patel

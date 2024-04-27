@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/AI%20%26%20CC/Project/End-to-end-Machine-Learning-Project-/mlruns/0/7b4c81d466ca4de29f7938e2ca2df6cf/artifacts
+end_time: 1714235487563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b4c81d466ca4de29f7938e2ca2df6cf
+run_name: zealous-goose-134
+run_uuid: 7b4c81d466ca4de29f7938e2ca2df6cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714235484881
+status: 3
+tags: []
+user_id: patel
