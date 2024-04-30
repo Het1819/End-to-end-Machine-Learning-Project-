@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/AI%20%26%20CC/Project/End-to-end-Machine-Learning-Project-/mlruns/0/58b168f7c61c4aeba92af8b14e773be8/artifacts
+end_time: 1714398394043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58b168f7c61c4aeba92af8b14e773be8
+run_name: bright-panda-879
+run_uuid: 58b168f7c61c4aeba92af8b14e773be8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714398391465
+status: 3
+tags: []
+user_id: patel
